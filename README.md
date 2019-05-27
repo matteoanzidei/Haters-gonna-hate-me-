@@ -49,7 +49,7 @@ The code in the file BadLanguageDetector.ipynb must be runned from the beginning
 1. Bag of words
 
 ## Tests
-To run the test 
+To run the test  
 
 ![Screnshot_matrix](https://github.com/matthew2511/Haters-gonna-hate-me-/blob/master/Images/image.png)
 
