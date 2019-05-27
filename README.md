@@ -63,7 +63,7 @@ Each classifier has it's corresponding confusion matrix to visualize the results
 - Code example:
 ![Screnshot_matrix](https://github.com/matthew2511/Haters-gonna-hate-me-/blob/master/Images/screnshoot_cm.jpeg)
 
-To visualize the accuracy of the classifiers of each language model, the code below the heading "Scores" can runned.
+To visualize the accuracy of the classifiers of each language model, the code below the heading "Scores" can be runned.
 
 - Code example
 ![Screnshot_score](https://github.com/matthew2511/Haters-gonna-hate-me-/blob/master/Images/screnshoot_scores.jpeg)
