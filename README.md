@@ -21,9 +21,6 @@ Therefore, as the percentage of hateful comments increases around the world, we 
 ## Tech/framework used
 The open-source web application called The Jupyter Notebook has been used to develop the program
 
-## Features
-
- 
 ## Installation
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install:
 - pandas
@@ -61,10 +58,16 @@ The code in the file BadLanguageDetector.ipynb must be runned from the beginning
 
 
 ## Tests
-To run the test 
+Each classifier has it's corresponding confusion matrix to visualize the results. 
 
 - Code example:
 ![Screnshot_matrix](https://github.com/matthew2511/Haters-gonna-hate-me-/blob/master/Images/image.png)
+
+To visualize the accuracy of the classifiers of each language model, the code below the heading "Scores" can runned.
+
+- Code example
+![Screnshot_score](https://github.com/matthew2511/Haters-gonna-hate-me-/blob/master/Images/image.png)
+
 
 
 
