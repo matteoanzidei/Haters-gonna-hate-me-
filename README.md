@@ -51,7 +51,7 @@ The code in the file BadLanguageDetector.ipynb must be runned from the beginning
 ## Tests
 To run the test 
 
-
+![Global Views on Cyberbullying 2011 to 2018](https://github.com/matthew2511/Haters-gonna-hate-me-/blob/master/Images/Global%20Views%20on%20Cyberbullying%202011%20to%202018.png)
 
 
 
