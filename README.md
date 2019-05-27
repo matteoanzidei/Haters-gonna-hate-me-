@@ -4,7 +4,18 @@ NLP project
 ## Introduction 
 The program is a basic bad language detector, which categorize comments in hate speech, offensive and neutral commments.
 
-## Files:
+## Installation
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install pandas, numpy, matplotlib.pyplot, sklearn, nltk, re
+```bash
+pip install pandas
+pip install numpy
+pip install matplotlib.pyplot
+pip install sklearn
+pip install nltk
+pip install re
+```
+
+## Files
 The program has 5 files:
 Dataset.csv is the file containing all the data used to train and test the classifiers.
 Train.csv is the file containing all the data used to train the classifiers ( 80% of the dataset).
