@@ -71,7 +71,7 @@ To visualize the accuracy of the classifiers of each language model, the code be
 ## Results
 - Accuracy: 
 
-![Accuracy](https://github.com/matthew2511/Haters-gonna-hate-me-/blob/master/Images/Cyberbulling2011.jpeg)
+![Accuracy](https://github.com/matthew2511/Haters-gonna-hate-me-/blob/master/Images/table.jpeg)
 
 
 ## Contribute
