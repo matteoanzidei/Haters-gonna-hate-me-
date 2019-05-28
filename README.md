@@ -41,7 +41,7 @@ pip install gensim
 
 ## Files
 The program has 5 files:
-- Dataset.csv is the file containing all the data used to train and test the classifiers.
+- Dataset.csv is the file containing all the data used to train and test the classifiers. Thr data set contains 25k tweets and has an high density of offensive tweets
 - Train.csv is the file containing all the data used to train the classifiers ( 80% of the dataset).
 - Test.csv is the file containing all the data used to test the classifiers ( 20% of the dataset).
 - BadLanguageDetector.ipynb contains the language models, the different classifiers and the results.
@@ -86,7 +86,7 @@ To visualize the accuracy of the classifiers of each language model, the code be
 
 - Accuracy: 
 
-![Accuracy](https://github.com/matthew2511/Haters-gonna-hate-me-/blob/master/Images/table.jpeg)
+![Accuracy](https://github.com/matthew2511/Haters-gonna-hate-me-/blob/master/Images/w2v_svm.jpeg)
 
 
 ## Contribute
