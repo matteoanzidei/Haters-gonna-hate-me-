@@ -68,6 +68,13 @@ To visualize the accuracy of the classifiers of each language model, the code be
 - Code example
 ![Screnshot_score](https://github.com/matthew2511/Haters-gonna-hate-me-/blob/master/Images/screnshoot_scores.jpeg)
 
+## Results
+- Accuracy: 
+| Classifiers | Word2vec | Bag of words |
+| :---         |     :---:      |          ---: |
+| MultinomialNB   | X     | 0.88    |
+| XGB     | 0.85       | X      |
+| SVM     | 0.85       | 0.91      |
 
 ## Contribute
 - Matteo Anzidei
