@@ -92,7 +92,7 @@ To visualize the accuracy of the classifiers of each language model, the code be
 
 - Accuracy: 
 
-![Accuracy](https://github.com/matthew2511/Haters-gonna-hate-me-/blob/master/Images/w2v_svm.jpeg)
+![Accuracy](https://github.com/matthew2511/Haters-gonna-hate-me-/blob/master/Images/table.jpeg)
 
 
 ## Contribute
