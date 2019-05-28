@@ -74,7 +74,7 @@ To visualize the accuracy of the classifiers of each language model, the code be
 - MultinomialNB 
 ![multi](https://github.com/matthew2511/Haters-gonna-hate-me-/blob/master/Images/multi.jpeg)
 - SVM
-![svm_bow](https://github.com/matthew2511/Haters-gonna-hate-me-/blob/master/Images/screnshoot_cm.jpeg)
+![svm_bow](https://github.com/matthew2511/Haters-gonna-hate-me-/blob/master/Images/svm_bow.jpeg)
 ### Word2vec
 - XGB
 ![xgb](https://github.com/matthew2511/Haters-gonna-hate-me-/blob/master/Images/screnshoot_cm.jpeg)
