@@ -85,7 +85,7 @@ To visualize the accuracy of the classifiers of each language model, the code be
 
 - SVM
 
-![w2v_svm](https://github.com/matthew2511/Haters-gonna-hate-me-/blob/master/Images/screnshoot_cm.jpeg)
+![w2v_svm](https://github.com/matthew2511/Haters-gonna-hate-me-/blob/master/Images/w2v_svm.jpeg)
 
 
 
